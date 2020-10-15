@@ -1,0 +1,24 @@
+﻿<Window x:Class="CameraViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CameraViewer"
+        mc:Ignorable="d"
+        Title="Camera viewer" Height="550" Width="900" Background="Black" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel Grid.ColumnSpan="2" Orientation="Horizontal" Margin="5">
+            <Image x:Name="video" Height="480" Margin="0,0,10,0" Width="640" OpacityMask="Black" MinWidth="640" MinHeight="480" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+
+            <StackPanel x:Name="Menu" Height="500" Margin="0" Width="220" HorizontalAlignment="Right">
+                <UniformGrid Rows="1" Columns="2" RenderTransformOrigin="0.516,-0.2" Margin="0">
+                    <CheckBox x:Name="ConnectionButton" Content="Connection" HorizontalAlignment="Left" Foreground="White" VerticalAlignment="Center" FontSize="14" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+                </UniformGrid>
+                <ScrollViewer Margin="0,10">
+                    <ListBox x:Name="ChannelsSelector" SelectionChanged="ChannelsSelector_SelectionChanged" Background="White"/>
+                </ScrollViewer>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>

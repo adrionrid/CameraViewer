@@ -1,0 +1,29 @@
+C:\Games\VSprojects\CameraViewer\CameraViewer\bin\Debug\CameraViewer.exe.config
+C:\Games\VSprojects\CameraViewer\CameraViewer\bin\Debug\CameraViewer.exe
+C:\Games\VSprojects\CameraViewer\CameraViewer\bin\Debug\CameraViewer.pdb
+C:\Games\VSprojects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.csprojAssemblyReference.cache
+C:\Games\VSprojects\CameraViewer\CameraViewer\obj\Debug\MainWindow.g.cs
+C:\Games\VSprojects\CameraViewer\CameraViewer\obj\Debug\App.g.cs
+C:\Games\VSprojects\CameraViewer\CameraViewer\obj\Debug\CameraViewer_MarkupCompile.cache
+C:\Games\VSprojects\CameraViewer\CameraViewer\obj\Debug\CameraViewer_MarkupCompile.lref
+C:\Games\VSprojects\CameraViewer\CameraViewer\obj\Debug\MainWindow.baml
+C:\Games\VSprojects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.g.resources
+C:\Games\VSprojects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.Properties.Resources.resources
+C:\Games\VSprojects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.csproj.GenerateResource.cache
+C:\Games\VSprojects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.exe
+C:\Games\VSprojects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.pdb
+C:\Games\VS Projects\CameraViewer\CameraViewer\bin\Debug\CameraViewer.exe.config
+C:\Games\VS Projects\CameraViewer\CameraViewer\bin\Debug\CameraViewer.exe
+C:\Games\VS Projects\CameraViewer\CameraViewer\bin\Debug\CameraViewer.pdb
+C:\Games\VS Projects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.csprojAssemblyReference.cache
+C:\Games\VS Projects\CameraViewer\CameraViewer\obj\Debug\MainWindow.g.cs
+C:\Games\VS Projects\CameraViewer\CameraViewer\obj\Debug\App.g.cs
+C:\Games\VS Projects\CameraViewer\CameraViewer\obj\Debug\CameraViewer_MarkupCompile.cache
+C:\Games\VS Projects\CameraViewer\CameraViewer\obj\Debug\CameraViewer_MarkupCompile.lref
+C:\Games\VS Projects\CameraViewer\CameraViewer\obj\Debug\MainWindow.baml
+C:\Games\VS Projects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.g.resources
+C:\Games\VS Projects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.Properties.Resources.resources
+C:\Games\VS Projects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.csproj.GenerateResource.cache
+C:\Games\VS Projects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.csproj.CoreCompileInputs.cache
+C:\Games\VS Projects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.exe
+C:\Games\VS Projects\CameraViewer\CameraViewer\obj\Debug\CameraViewer.pdb
